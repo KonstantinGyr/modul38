@@ -1,0 +1,30 @@
+"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Kot\CLionProjects\hw38tutorial\untitled3 -B C:\Users\Kot\CLionProjects\hw38tutorial\untitled3\cmake-build-debug
+-- The C compiler identification is GNU 11.3.0
+-- The CXX compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake:28 (find_package):
+  Could not find a package configuration file provided by
+  "Qt5WebEngineWidgets" with any of the following names:
+
+    Qt5WebEngineWidgetsConfig.cmake
+    qt5webenginewidgets-config.cmake
+
+  Add the installation prefix of "Qt5WebEngineWidgets" to CMAKE_PREFIX_PATH
+  or set "Qt5WebEngineWidgets_DIR" to a directory containing one of the above
+  files.  If "Qt5WebEngineWidgets" provides a separate development package or
+  SDK, be sure it has been installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:8 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Kot/CLionProjects/hw38tutorial/untitled3/cmake-build-debug/CMakeFiles/CMakeOutput.log".

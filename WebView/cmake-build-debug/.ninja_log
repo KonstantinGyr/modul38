@@ -1,0 +1,12 @@
+# ninja log v5
+140	288	6813243117248169	WebView_autogen/timestamp	96d41dbdd7ba52d
+140	288	6813243117248169	WebView_autogen/mocs_compilation.cpp	96d41dbdd7ba52d
+140	288	6813243117248169	C:/Users/Kot/CLionProjects/hw38tutorial/WebView/cmake-build-debug/WebView_autogen/timestamp	96d41dbdd7ba52d
+140	288	6813243117248169	C:/Users/Kot/CLionProjects/hw38tutorial/WebView/cmake-build-debug/WebView_autogen/mocs_compilation.cpp	96d41dbdd7ba52d
+578	1333	6813241975058560	CMakeFiles/WebView.dir/WebView_autogen/mocs_compilation.cpp.obj	aead646f6775cdd7
+579	35059	6813242307248532	CMakeFiles/WebView.dir/main.cpp.obj	19aa70c974ff36a8
+46	1262	6813273029396587	WebView_autogen/timestamp	96d41dbdd7ba52d
+46	1262	6813273029396587	WebView_autogen/mocs_compilation.cpp	96d41dbdd7ba52d
+46	1262	6813273029396587	C:/Users/Kot/CLionProjects/hw38tutorial/WebView/cmake-build-debug/WebView_autogen/timestamp	96d41dbdd7ba52d
+46	1262	6813273029396587	C:/Users/Kot/CLionProjects/hw38tutorial/WebView/cmake-build-debug/WebView_autogen/mocs_compilation.cpp	96d41dbdd7ba52d
+1263	3508	6813273051882523	CMakeFiles/WebView.dir/WebView_autogen/mocs_compilation.cpp.obj	151ae4249050ff20
