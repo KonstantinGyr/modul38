@@ -1,0 +1,5 @@
+C:/Users/Kot/CLionProjects/hw38tutorial/BlureImige/cmake-build-debug/CMakeFiles/BlureImige.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/BlureImige/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/BlureImige/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/BlureImige/cmake-build-debug/CMakeFiles/BlureImige_autogen_timestamp_deps.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/BlureImige/cmake-build-debug/CMakeFiles/BlureImige_autogen.dir
