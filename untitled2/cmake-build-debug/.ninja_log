@@ -1,9 +1,0 @@
-# ninja log v5
-344	6051	6813239033390664	CMakeFiles/untitled2.dir/main.cpp.obj	d74ec5d1266e29b2
-12	342	6813238976342503	untitled2_autogen/timestamp	47c171aefd8d409b
-12	342	6813238976342503	untitled2_autogen/mocs_compilation.cpp	47c171aefd8d409b
-343	415	6813238977044086	CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj	3b95278990b9060c
-12	342	6813238976342503	C:/Users/Kot/CLionProjects/hw38tutorial/untitled2/cmake-build-debug/untitled2_autogen/timestamp	47c171aefd8d409b
-83	1700	6813270890169480	build.ninja	81358a85085adac1
-12	342	6813238976342503	C:/Users/Kot/CLionProjects/hw38tutorial/untitled2/cmake-build-debug/untitled2_autogen/mocs_compilation.cpp	47c171aefd8d409b
-3910	6000	6813153861477160	untitled2.exe	31a2676250f533ff
