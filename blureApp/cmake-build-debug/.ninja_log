@@ -1,9 +1,0 @@
-# ninja log v5
-20	2391	6822494143985741	build.ninja	6b3c4b1d8a559d42
-173	5937	6819992556886017	CMakeFiles/blureApp.dir/main.cpp.obj	526f80b42ae54e58
-58	734	6820010715174867	blureApp_autogen/timestamp	fb31be308dfab4ad
-58	734	6820010715174867	blureApp_autogen/mocs_compilation.cpp	fb31be308dfab4ad
-58	734	6820010715174867	C:/Users/Kot/CLionProjects/hw38tutorial/blureApp/cmake-build-debug/blureApp_autogen/timestamp	fb31be308dfab4ad
-58	734	6820010715174867	C:/Users/Kot/CLionProjects/hw38tutorial/blureApp/cmake-build-debug/blureApp_autogen/mocs_compilation.cpp	fb31be308dfab4ad
-734	5858	6820010768252162	CMakeFiles/blureApp.dir/blureApp_autogen/mocs_compilation.cpp.obj	cad83ffac6ca9000
-5952	7301	6819992565013507	blureApp.exe	5d842c5697074235
