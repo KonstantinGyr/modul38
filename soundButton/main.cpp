@@ -16,7 +16,7 @@ public:
     void paintEvent(QPaintEvent *e) override;
     QSize sizeHint() const override;
     QSize minimumSizeHint() const override;
-    void  keyPressEvent(QKeyEvent *e);
+    void  keyPressEvent(QKeyEvent *e)override;
 
 public slots:
     void setUp();
@@ -71,7 +71,7 @@ void ImageButton::setDown()
     mCurrentButtonPixmap = mButtonDownPixmap;
     player->play();
     update();
-    QTimer::singleShot(100, this,&ImageButton::setUp);
+    QTimer::singleShot(200, this,&ImageButton::setUp);
 }
 
 void ImageButton::setUp()

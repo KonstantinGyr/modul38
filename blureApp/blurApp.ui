@@ -15,42 +15,38 @@
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout_2">
-    <item row="0" column="0">
-     <layout class="QGridLayout" name="gridLayout">
-      <item row="2" column="0">
+    <item row="1" column="0">
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
        <widget class="QLabel" name="label">
-        <property name="sizePolicy">
-         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-          <horstretch>0</horstretch>
-          <verstretch>0</verstretch>
-         </sizepolicy>
-        </property>
         <property name="text">
          <string>TextLabel</string>
         </property>
        </widget>
       </item>
-      <item row="5" column="0">
-       <widget class="QPushButton" name="pushButton">
-        <property name="font">
-         <font>
-          <pointsize>12</pointsize>
-         </font>
-        </property>
-        <property name="text">
-         <string>open</string>
-        </property>
-       </widget>
-      </item>
-      <item row="4" column="0">
+      <item>
        <widget class="QSlider" name="horizontalSlider">
-        <property name="font">
-         <font>
-          <pointsize>12</pointsize>
-         </font>
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
         </property>
         <property name="orientation">
          <enum>Qt::Horizontal</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
         </property>
        </widget>
       </item>
@@ -71,40 +67,7 @@
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections>
-  <connection>
-   <sender>horizontalSlider</sender>
-   <signal>sliderMoved(int)</signal>
-   <receiver>MainWindow</receiver>
-   <slot>slider()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>82</x>
-     <y>524</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>76</x>
-     <y>577</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>pushButton</sender>
-   <signal>clicked()</signal>
-   <receiver>MainWindow</receiver>
-   <slot>open()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>212</x>
-     <y>554</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>225</x>
-     <y>571</y>
-    </hint>
-   </hints>
-  </connection>
- </connections>
+ <connections/>
  <slots>
   <slot>slider()</slot>
   <slot>open()</slot>
