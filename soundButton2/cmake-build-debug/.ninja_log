@@ -1,0 +1,15 @@
+# ninja log v5
+4	683	6828063528357651	soundButton2_autogen/timestamp	35e4960190667c2a
+4	683	6828063528357651	C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/soundButton2_autogen/timestamp	35e4960190667c2a
+685	3172	6828063554151787	CMakeFiles/soundButton2.dir/main.cpp.obj	e0452ab87d84a89f
+4	683	6828063528357651	soundButton2_autogen/mocs_compilation.cpp	35e4960190667c2a
+4	683	6828063528357651	C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/soundButton2_autogen/mocs_compilation.cpp	35e4960190667c2a
+684	784	6828063530241199	CMakeFiles/soundButton2.dir/soundButton2_autogen/mocs_compilation.cpp.obj	41e18a7ae5bbc367
+3191	4330	6828063565329474	soundButton2.exe	67d0fb1564a1dad3
+3	522	6828066363190987	soundButton2_autogen/timestamp	35e4960190667c2a
+3	522	6828066363190987	soundButton2_autogen/mocs_compilation.cpp	35e4960190667c2a
+3	522	6828066363190987	C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/soundButton2_autogen/timestamp	35e4960190667c2a
+3	522	6828066363190987	C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/soundButton2_autogen/mocs_compilation.cpp	35e4960190667c2a
+522	607	6828066364128435	CMakeFiles/soundButton2.dir/soundButton2_autogen/mocs_compilation.cpp.obj	41e18a7ae5bbc367
+524	3087	6828066388757458	CMakeFiles/soundButton2.dir/main.cpp.obj	e0452ab87d84a89f
+3094	4203	6828066399854115	soundButton2.exe	67d0fb1564a1dad3

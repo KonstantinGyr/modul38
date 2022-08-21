@@ -1,0 +1,5 @@
+C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/CMakeFiles/soundButton2.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/CMakeFiles/soundButton2_autogen_timestamp_deps.dir
+C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug/CMakeFiles/soundButton2_autogen.dir

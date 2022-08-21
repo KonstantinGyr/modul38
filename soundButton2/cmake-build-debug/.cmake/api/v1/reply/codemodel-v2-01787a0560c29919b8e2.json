@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "soundButton2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "soundButton2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-soundButton2-Debug-2f963e470791afacc42e.json",
+					"name" : "soundButton2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "soundButton2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-soundButton2_autogen-Debug-9b8dab703c6e86d7c866.json",
+					"name" : "soundButton2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "soundButton2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-soundButton2_autogen_timestamp_deps-Debug-84b4ebc1c776e0cdd181.json",
+					"name" : "soundButton2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2/cmake-build-debug",
+		"source" : "C:/Users/Kot/CLionProjects/hw38tutorial/soundButton2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
