@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
     QObject::connect(button,&QPushButton::clicked,[viewer,slider]()
     {
         QString filePath = QFileDialog::getOpenFileName(nullptr,"Open jpg picture",
-                                                        "C:/files/images","jpg file(*.jpg,*.JPG)");
+                                                        "C:/files/images","jpg file(*.jpg)");
         QImage image  (filePath);
         QImage imageOut = blurImage(QImage (filePath),slider->sliderPosition());
 

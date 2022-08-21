@@ -26,10 +26,6 @@ int main(int argc, char *argv[]) {
     webView->setSizePolicy(sizePolicy);
     htmlEdit->setSizePolicy(sizePolicy);
     mainWindow.resize(1000,640);
-    // QString fileName = QFileDialog::getOpenFileName();
-    // QFile file(fileName);
-    // QTextStream out(&file);
-    // QString output = out.readAll();
     QString string = "<html><body><h1>HTML Previewer</h1>"
                      " <p>This example shows you how to use QWebEngineView to"
                      " preview HTML data written in a QPlainTextEdit.</p>"
