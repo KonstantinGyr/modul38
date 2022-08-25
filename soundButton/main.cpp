@@ -40,7 +40,7 @@ ImageButton::ImageButton(QWidget *parent)
     mButtonDownPixmap = QPixmap("button_down.png");
     mCurrentButtonPixmap = mButtonUpPixmap;
     setGeometry(mCurrentButtonPixmap.rect());
-    player->setMedia(QUrl::fromLocalFile("C:/files/sound.mp3"));
+    player->setMedia(QUrl::fromLocalFile("sound.mp3"));
     player->setVolume(100);
     connect(this,&QPushButton::clicked,this,&ImageButton::setDown);
 }
@@ -71,7 +71,7 @@ void ImageButton::setDown()
     mCurrentButtonPixmap = mButtonDownPixmap;
     player->play();
     update();
-    QTimer::singleShot(600, this,&ImageButton::setUp);
+    QTimer::singleShot(200, this,&ImageButton::setUp);
 }
 
 void ImageButton::setUp()
